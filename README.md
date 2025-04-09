@@ -6,5 +6,6 @@ This repository demonstrates two key stages in object detection:
 2. Training the YOLO model specifically for traffic vision tasks, optimizing it to detect and classify traffic-related objects.
 
 
-Dataset
-This project uses the Traffic Signs Detection from Kaggle. 
+Dataset:
+
+This project uses the Traffic Signs Detection from Kaggle. (https://www.kaggle.com/datasets/pkdarabi/cardetection)
